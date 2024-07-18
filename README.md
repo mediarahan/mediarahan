@@ -26,15 +26,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Your Latest Medium Post](link-to-post)
-- [Your Second Latest Post](link-to-post)
-<!-- BLOG-POST-LIST:END -->
-
 ### My GitHub Stats
 ![Mediarahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&hide=javascript,html&theme=vue-dark&layout=compact)
 
 ### 🎮 Hobbies:
-- In times where I'm not working or sleeping, I write, make, and play video games. 
-- I sometimes ramble about JRPGs on my YouTube channel [gbSR](https://www.youtube.com/@GarlicBreadSR).
+- In times where I'm not working or sleeping, I play, make, and talk about video games. 
+- I sometimes ramble about JRPGs on my YouTube channel, [gbSR](https://www.youtube.com/@GarlicBreadSR).
