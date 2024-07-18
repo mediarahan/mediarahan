@@ -28,7 +28,6 @@
 
 ### My GitHub Stats
 ![Mediarahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mediarahan&hide=javascript,html&theme=vue-dark&layout=compact)
 
 ### 🎮 Hobbies:
 - In times where I'm not working or sleeping, I play, make, and talk about video games. 
