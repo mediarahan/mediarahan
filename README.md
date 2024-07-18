@@ -6,13 +6,12 @@
 - 🌱 My main specialization is in Mobile Development with Kotlin and Android Studio.
 - 👀 I’m open to job opportunities in Android Development or other IT related positions. I aim to create real, tangible work that positively impact people's lives.
 - 🚀 I have several projects that showcase my skillset. My most notable one is **Nourimate** - A Machine Learning based Healthy Food Recommendation app. The project highlights my proficiency with the MVVM design pattern, API consumption using Retrofit, and several components of Android Jetpack. It is also my final project for University.
-- 📱 In addition to that, I have also developed multiple Android projects at varying levels of complexity, including projects using Jetpack Compose, which you can find below in addition to my Repository page:
+- 📱 In addition to that, I have also developed multiple Android projects at varying levels of complexity, including projects using Jetpack Compose, which you can find below in addition to my [Repository page](https://github.com/mediarahan?tab=repositories):
   - Submisi Android Beginner: [Golden Sun Djinn List App](https://github.com/mediarahan/DicodingBeginner)
   - Submisi Android Fundamental: [Github User List App using Github API](https://github.com/mediarahan/DicodingFundamental)
   - Submisi Android Intermediate: [Story App](https://github.com/mediarahan/DicodingIntermediate)
   - Submisi Android Jepack Compose: [Study List App with Jetpack Compose](https://github.com/mediarahan/DicodingJetpackCompose)
   - Nourimate: [Healty Food Recommendation App](https://github.com/mediarahan/nourimate) <br>
-    You can more project [here](https://github.com/mediarahan?tab=repositories)
 - 📚 I plan to pursue a Master's degree in the future.
 
 
