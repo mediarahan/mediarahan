@@ -1,17 +1,24 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm [Achmad Rionov Faddillah Ramadhan] 👋
 
-## I'm a recent Computer Engineering graduate aspiring to become an Android Developer!
+## I'm a recent Computer Engineering graduate and Android Developer!
 
-- 🎓 I've just graduated with a degree in Computer Engineering.
-- 🌱 I'm currently sharpening my skills in Native Android Development using Kotlin and Android Studio.
-- 👀 I’m open to job opportunities where I can contribute and grow, be it in Android Development or other IT related positions.
-- 📚 Planning to pursue a Master's degree in the future.
-- 🚀 Final Project: **Nourimate** - A Machine Learning based Healthy Food Recommendation app. This project highlights my proficiency with the MVVM design pattern, API consumption using Retrofit, and several components of Android Jetpack.
-- 📱 I have also developed multiple Android apps at varying levels of complexity, including projects using Jetpack Compose, showcased on [Dicoding](https://dicoding.com).
+- 🎓 I've just graduated from Telkom University with a bachelor's degree in Computer Engineering.
+- 🌱 My main specialization is in Mobile Development with Kotlin and Android Studio.
+- 👀 I’m open to job opportunities in Android Development or other IT related positions. I aim to create real, tangible work that positively impact people's lives.
+- 🚀 I have several projects that showcase my skillset. My most notable one is **Nourimate** - A Machine Learning based Healthy Food Recommendation app. The project highlights my proficiency with the MVVM design pattern, API consumption using Retrofit, and several components of Android Jetpack. It is also my final project for University.
+- 📱 In addition to that, I have also developed multiple Android projects at varying levels of complexity, including projects using Jetpack Compose, which you can find below in addition to my Repository page:
+  - Submisi Android Beginner: [Golden Sun Djinn List App](https://github.com/mediarahan/DicodingBeginner)
+  - Submisi Android Fundamental: [Github User List App using Github API](https://github.com/mediarahan/DicodingFundamental)
+  - Submisi Android Intermediate: [Story App](https://github.com/mediarahan/DicodingIntermediate)
+  - Submisi Android Jepack Compose: [Study List App with Jetpack Compose](https://github.com/mediarahan/DicodingJetpackCompose)
+  - Nourimate: [Healty Food Recommendation App](https://github.com/mediarahan/nourimate)
+    You can more project [here](https://github.com/mediarahan?tab=repositories)
+- 📚 I plan to pursue a Master's degree in the future.
+
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-Me-brightgreen)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/achmadrionov/)
+[![Email](https://img.shields.io/badge/Email-Me-brightgreen)](mailto:pergerakanpertama@gmail.com)
 
 ### Languages and Tools:
 ![Kotlin](https://img.shields.io/badge/Kotlin-%23ED8B00.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -27,12 +34,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### My GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
-### ⚡ Fun fact:
-- I love sleeping, writing, and am an avid gamer.
-- I share my passion for JRPGs on my YouTube channel and engage with a like-minded community.
+![Mediarahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
 ### 🎮 Hobbies:
-- Writing and playing video games.
-- Creating content for and managing my YouTube channel focused on JRPGs.
+- In times where I'm not working or sleeping, I write, make, and play video games. 
+- I sometimes ramble about JRPGs on my YouTube channel [gbSR](https://www.youtube.com/@GarlicBreadSR).
