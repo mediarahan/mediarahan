@@ -1,4 +1,4 @@
-# Hello, I'm [Achmad Rionov Faddillah Ramadhan] 👋
+# Hello, I'm Achmad Rionov Faddillah Ramadhan 👋
 
 ## I'm a recent Computer Engineering graduate and Android Developer!
 
