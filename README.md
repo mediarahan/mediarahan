@@ -11,7 +11,7 @@
   - Submisi Android Fundamental: [Github User List App using Github API](https://github.com/mediarahan/DicodingFundamental)
   - Submisi Android Intermediate: [Story App](https://github.com/mediarahan/DicodingIntermediate)
   - Submisi Android Jepack Compose: [Study List App with Jetpack Compose](https://github.com/mediarahan/DicodingJetpackCompose)
-  - Nourimate: [Healty Food Recommendation App](https://github.com/mediarahan/nourimate)
+  - Nourimate: [Healty Food Recommendation App](https://github.com/mediarahan/nourimate) <br>
     You can more project [here](https://github.com/mediarahan?tab=repositories)
 - 📚 I plan to pursue a Master's degree in the future.
 
