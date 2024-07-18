@@ -28,7 +28,7 @@
 
 ### My GitHub Stats
 ![Mediarahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mediarahan&show_icons=true&theme=tokyonight)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mediarahan&hide=javascript,html&theme=vue-dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mediarahan&hide=jupyter%20notebook&theme=vue-dark&layout=compact)
 
 
 ### 🎮 Hobbies:
