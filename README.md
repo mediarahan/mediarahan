@@ -32,4 +32,4 @@
 
 ### 🎮 Hobbies:
 - In times where I'm not working or sleeping, I play, make, and talk about video games. 
-- I sometimes ramble about JRPGs on my YouTube channel, [gbSR](https://www.youtube.com/@GarlicBreadSR).
+- I sometimes ramble about JRPGs.
