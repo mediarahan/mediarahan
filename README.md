@@ -3,7 +3,7 @@
 ## I'm a recent Computer Engineering graduate and Android Developer!
 
 - 🎓 I've just graduated from Telkom University with a bachelor's degree in Computer Engineering.
-- 🌱 My main specialization is in Mobile Development with Kotlin and Android Studio.
+- 🌱 My main specialization is in both Native (Kotlin and Java) and cross-platform (Flutter) Mobile Development.
 - 👀 I’m open to job opportunities in Android Development or other IT related positions. I aim to create real, tangible work that positively impact people's lives.
 - 🚀 I have several projects that showcase my skillset. My most notable one is **Nourimate** - A Machine Learning based Healthy Food Recommendation app. The project highlights my proficiency with the MVVM design pattern, API consumption using Retrofit, and several components of Android Jetpack. It is also my final project for University.
 - 📱 In addition to this, I’ve developed multiple Android projects across varying levels of complexity.
@@ -20,6 +20,7 @@ All Dicoding submission projects are available [here](https://github.com/mediara
 
 ### Languages and Tools:
 ![Kotlin](https://img.shields.io/badge/Kotlin-%23ED8B00.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
