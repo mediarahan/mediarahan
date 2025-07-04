@@ -9,7 +9,7 @@
 - 📱 In addition to this, I’ve developed multiple Android projects across varying levels of complexity.
 
 ### 🔧 Independent Work
-- [Daily Split Tracker](https://github.com/mediarahan/your-repo-name) — *LiveSplit-style timer for daily task tracking (this repo)*
+- [Daily Split Tracker](https://github.com/mediarahan/livesplit-style-tracker) — *LiveSplit-style timer for daily task tracking (this repo)*
 
 ### 📘 Coursework Projects (via Dicoding Submissions)
 All Dicoding submission projects are available [here](https://github.com/mediarahan?tab=repositories&q=dicoding-submission).
